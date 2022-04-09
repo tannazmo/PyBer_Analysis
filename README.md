@@ -15,6 +15,9 @@ There is a statement summarizing three business recommendations to the CEO for a
 
 -----------------
 Demonstrating Proficiency
+
 ✓The purpose is well defined. 
+
 ✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. 
+
 ✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
