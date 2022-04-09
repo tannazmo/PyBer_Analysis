@@ -6,7 +6,7 @@ The purpose of the new analysis is well defined. (3 pt)
 
 ## Results:
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the **total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type**. (7 pt)
 
 ## Summary:
 
@@ -21,3 +21,11 @@ Demonstrating Proficiency
 ✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. 
 
 ✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
+
+
+Number of Rides by City Type
+Fare by City Type
+Number of Drivers by City Type
+Total Fares by City Type
+Total Rides by City Type
+Total Drivers by City Type
