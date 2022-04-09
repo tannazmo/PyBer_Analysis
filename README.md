@@ -11,3 +11,10 @@ There is a description of the differences in ride-sharing data among the differe
 ## Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+
+
+-----------------
+Demonstrating Proficiency
+✓The purpose is well defined. 
+✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. 
+✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
