@@ -6,43 +6,49 @@ The purpose of this analysis is by using the raw data, to create a number of cha
 
 ## Results:
 
-We first merged the two data files by their common element which was the name of the city to have one DataFrame showing all the infomation for this analysis.
+We first merged the two data files by their common element which was the name of the city to have one DataFrame showing all the information for this analysis.
 
 We then split the main DataFrame into three different DataFrames for each type of city. We were then able to create reports and numbers and charts that would help the CEO and stakeholders in PyBer to decide which type of city needs more support and investment.
 
-We calculated the number of rides for each city type, the average fare for each city type and number of drivers for each city type. With these info, we were able to create a bubble chart that would show all that in one single chart, as below:
+We calculated the number of rides for each city type, the average fare for each city type and number of drivers for each city type. With ths information, we were able to create a bubble chart that would show all that in one single chart, as below:
 
 
 ![Pyber_Ride_Sharing](/analysis/Fig1.png "PyBer Ride-Sharing Data")
 
-We then created the statistcal summaries for Number of Rides, Fares and Number of Drivers by city type and created a whisker and box plot to see if there are any outliers in the data that we have and also where our minimums and maximums are, figures as below:
+We then created the statistical summaries for Number of Rides, Fares and Number of Drivers by city type and created a whisker and box plot to see if there are any outliers in the data that we have and also where our minimums and maximums are, figures as below:
 
 
 ![Ride_Count_Data](/analysis/Fig2.png "Ride Count Data")
+
+In the Ride Count Data plot figure, we can see that there is an outlier in the data pertaining to the Urban rides, that we can take a look at, to see if it should be taken out of the data set or be left there.
+
 ![Ride_Fare_Data](/analysis/Fig3.png "Ride Fare Data")
+
+In the Ride Fare Data figure, we can see that the overal Fare for Rural areas is higher than the urban and suburban cities, and even the median fare for rural areas is higher than the upper quartile of the urban fare rides, which could mean that it would be less affordable in rural areas to use the service.
+
 ![Driver_Count_Data](/analysis/Fig4.png "Driver Count Data")
 
-We then calculated the percentages of Urban, Suburban and Rural areas for the Total Fares, Total Rides and Total Drivers and to showcase them the best, we used pie charts that best show the shares of a whole, like percetages. figures shown:
+In the Driver Count Data figure, we can see that the number of drivers in the rural areas are much lower than the urban areas. The low number of drivers could mean more wait time and higher fares, which will result in lower ridership.
+
+
+We then calculated the percentages of Urban, Suburban and Rural areas for the Total Fares, Total Rides and Total Drivers and to showcase them the best, we used pie charts that best show the shares of a whole, like percentages. figures shown:
 
 ![Percentage_of_Total_Fares](/analysis/Fig5.png "Percentage of Total Fares")
+This pie chart shows that over 60% of the Pyber revenue is from the Urban cities!
+
 ![Percentage_of_Total_Rides](/analysis/Fig6.png "Percentage of Total Rides")
+This pie chart shows that about a quarter of the total rides using PyBer is done in suburban cities.
+
 ![Percentage_of_Total_Drivers](/analysis/Fig7.png "Percentage of Total Drivers")
 
-
-
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the **total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type**. (7 pt)
-
-![District_Summary](/Resources/district_summary_before.png "District Summary BEFORE update")
-![District_Summary](/Resources/district_summary_before.png "District Summary BEFORE update")
+The pie chart shows that over 80% of the PyBer drivers serve the urban cities and only under 3% work in rural cities.
 
 
 ## Summary:
 
-By looking at the first bubble chart that we plotted, we can clearly see that the number rides are lower in Rural areas comparing to suburban and then urban which makes total sense because of the density of population, but what also catches the attention is that the fares are much higher in the rural areas, which can also be a factor for lower ridership. Pyber, can lower the fares for rural areas by increasing the number of drivers and most probably lower the wait times and this can also help increasing the ridership.
+By looking at the first bubble chart that we plotted, we can clearly see that the number rides are lower in Rural areas comparing to suburban and then urban which can be partly due to the lower density of population in rural cities, but what also catches the attention is that the fares are much higher in the rural areas, which can also be a factor for lower ridership. PyBer, can lower the fares for rural areas by increasing the number of drivers and most probably lower the wait times and this can also help increasing the ridership. So we can recommend based on the charts and data, to:
 
-✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. 
-
-✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
-
-
+1) Increase the number of drivers in rural areas
+2) Lower the fares in the rural areas
+3)  
+4) 
