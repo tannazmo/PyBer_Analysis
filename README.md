@@ -48,7 +48,7 @@ The pie chart shows that over 80% of the PyBer drivers serve the urban cities an
 Finally, we created a multiple-line chart showing the total weekly fares for each city type, that gives PyBer company a higher overview of the total fares for each of the community types. Figure shown below:
 
 
-![Total_Fares_by_City_Type_(Weekly)](/analysis/Fig-challenge.png "Total Fares by City Type (Weekly)")
+![Total_Fares_by_City_Type_(Weekly)](/analysis/PyBer_fare_summary.png "Total Fares by City Type (Weekly)")
 
 ## Summary:
 
