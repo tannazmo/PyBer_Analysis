@@ -45,6 +45,10 @@ This pie chart shows that about a quarter of the total rides using PyBer is done
 
 The pie chart shows that over 80% of the PyBer drivers serve the urban cities and only under 3% work in rural cities.
 
+Finally, we created a multiple-line chart showing the total weekly fares for each city type, that gives PyBer company a higher overview of the total fares for each of the community types. Figure shown below:
+
+
+![Total_Fares_by_City_Type_(Weekly)](/analysis/Fig-challenge.png.png "Total Fares by City Type (Weekly)")
 
 ## Summary:
 
